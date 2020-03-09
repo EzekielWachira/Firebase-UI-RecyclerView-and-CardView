@@ -5,5 +5,5 @@ Firebase Firestore
 RecyclerView 
 CardView 
 
-Use firebase UI firesore feature to display data in a recyclerview and cardview
+Use firebase UI firestore feature to display data in a recyclerview and cardview
 
